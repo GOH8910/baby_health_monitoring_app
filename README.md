@@ -58,18 +58,6 @@ flutter run
 1. Bluetooth Low Energy  
 2. Bluetooth Classic  
 
-## 📁 Project Structure
-
-```
-baby_monitoring_app/
-├── lib/                  # Dart frontend source code
-├── rust/                 # Rust backend source code
-├── test/                 # Dart unit tests
-├── report/
-│   └── final_report.pdf  # Full technical documentation
-├── pubspec.yaml
-└── ...
-```
 
 ## Code Locations
 
