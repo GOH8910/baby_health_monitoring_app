@@ -8,7 +8,7 @@ This app was developed as part of our third-year Software Engineering module gro
 
 We collaborated as a team of five, with responsibilities split across frontend, backend, Bluetooth integration, and report writing. My contributions included [briefly mention what you worked on – e.g., live plotting, UI, Rust integration, etc.].
 
-The final technical report, which details our design decisions, architecture, and testing strategies, is also included in this repository under `/report/final_report.pdf`.
+The final report, which details our design decisions, architecture, and testing strategies, is also included in this repository under `/Documents/final_report.pdf`.
 
 ## Device information
 
